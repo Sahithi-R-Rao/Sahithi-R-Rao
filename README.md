@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- Currently pursuing Bachelors' in Information Technology at SSN College of Engineering.
+- :books: Currently pursuing Bachelors' in Information Technology at SSN College of Engineering.
 - 🌱 I’m currently learning ML, DL and IT Automation.
 - 👯 I’m looking to collaborate on ML, especially CNN.
 - 🤔 I’m looking for help with Flutter and React.
