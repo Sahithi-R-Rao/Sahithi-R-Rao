@@ -33,7 +33,7 @@ I am a AI/ML enthusiast with a flair for Frontend Development <img src="https://
 
 - :zap: In my free time, I learn new languages, read books and teach myself freestyle dance.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(your-linkedin-url)](https://www.linkedin.com/in/sahithirrao/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/sahithirrao/)]
 
 ---
 
