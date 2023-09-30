@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 I am a AI/ML enthusiast with a flair for Frontend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a Third Year Information Technology Undergrad from SSN College of Engineering.
+- :telescope: I’m a Final Year Information Technology Undergrad from SSN College of Engineering.
 
 - :seedling: Exploring the Cloud and its nitty-gritties.
 
